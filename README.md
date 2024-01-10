@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Welcome to foolfood
+
+foolfood is a site of recipes where user can search their favorite food recipes in just a second, how cool huh!!!
+
+### Let's Try!!
+
+![image](https://github.com/iamdharmesh89/foolfood/assets/96813180/394c77c9-528b-4a64-bad0-07be761efa5d)
+
